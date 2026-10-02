@@ -1,0 +1,6 @@
+{
+  "name": "TDMA Schedule Planner & Optimizer — Vaan Megam Networks",
+  "description": "Centralized Network Brain for Wireless Networks: Topology construction, Distance-2 interference graph coloring, spatial reuse optimization, independent collision validation, and EMANE TDMA bridge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
